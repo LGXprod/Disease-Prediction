@@ -1,0 +1,34 @@
+|--- rusty_sputum == False
+|   |--- pain_behind_the_eyes == False
+|   |   |--- receiving_unsterile_injections == False
+|   |   |   |--- enlarged_thyroid == False
+|   |   |   |   |--- coma == False
+|   |   |   |   |   |--- sinus_pressure == False
+|   |   |   |   |   |   |--- abnormal_menstruation == False
+|   |   |   |   |   |   |   |--- phlegm == False
+|   |   |   |   |   |   |   |   |--- malaise == False
+|   |   |   |   |   |   |   |   |   |--- mild_fever == False
+|   |   |   |   |   |   |   |   |   |   |--- slurred_speech == False
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 45
+|   |   |   |   |   |   |   |   |   |   |--- slurred_speech == True
+|   |   |   |   |   |   |   |   |   |   |   |--- class: Hypoglycemia
+|   |   |   |   |   |   |   |   |   |--- mild_fever == True
+|   |   |   |   |   |   |   |   |   |   |--- class: hepatitis A
+|   |   |   |   |   |   |   |   |--- malaise == True
+|   |   |   |   |   |   |   |   |   |--- class: Chicken pox
+|   |   |   |   |   |   |   |--- phlegm == True
+|   |   |   |   |   |   |   |   |--- class: Tuberculosis
+|   |   |   |   |   |   |--- abnormal_menstruation == True
+|   |   |   |   |   |   |   |--- class: Hyperthyroidism
+|   |   |   |   |   |--- sinus_pressure == True
+|   |   |   |   |   |   |--- class: Common Cold
+|   |   |   |   |--- coma == True
+|   |   |   |   |   |--- class: Hepatitis E
+|   |   |   |--- enlarged_thyroid == True
+|   |   |   |   |--- class: Hypothyroidism
+|   |   |--- receiving_unsterile_injections == True
+|   |   |   |--- class: Hepatitis B
+|   |--- pain_behind_the_eyes == True
+|   |   |--- class: Dengue
+|--- rusty_sputum == True
+|   |--- class: Pneumonia
