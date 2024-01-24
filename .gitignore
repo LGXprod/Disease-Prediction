@@ -161,3 +161,6 @@ cython_debug/
 
 # Dataset
 *.csv
+
+# Mac OS files
+*.DS_Store
