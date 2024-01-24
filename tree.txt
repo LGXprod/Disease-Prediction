@@ -9,7 +9,7 @@
 |   |   |   |   |   |   |   |   |--- malaise == False
 |   |   |   |   |   |   |   |   |   |--- mild_fever == False
 |   |   |   |   |   |   |   |   |   |   |--- slurred_speech == False
-|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 45
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 47
 |   |   |   |   |   |   |   |   |   |   |--- slurred_speech == True
 |   |   |   |   |   |   |   |   |   |   |   |--- class: Hypoglycemia
 |   |   |   |   |   |   |   |   |   |--- mild_fever == True
